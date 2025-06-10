@@ -16,5 +16,7 @@ R3 Corda : Intended for consortiums, specializes primarily on legal enforcement 
 Platform Choice :
 
 DApp: Ethereum (open access, big community, native token).
+
 Supply Chain: Hyperledger Fabric (high throughput, private channels).
+
 Inter-bank Financial App: R3 Corda (Privacy, Compliance, and financial logic support).
